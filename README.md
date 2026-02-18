@@ -1,5 +1,7 @@
 # OSINT-Operation-The-Paris-Intercept
-OSINT Exercise to find the nearest metro station from a given image.
+OSINT Exercise: Find the nearest metro station from the given image (mask.jpeg).
+
+
 The Scenario
 Case File: #FR-75008-DEC
 Date: December 3rd, 2023
